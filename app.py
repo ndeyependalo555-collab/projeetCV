@@ -26,9 +26,8 @@ Ce portfolio présente mon parcours académique, mes compétences et mes objecti
  """)
 st.header("Certifications")
 st.markdown("""
-Licence en Sciences et Techniques Agroalimentaires et Nutritionnelles (en cours)
-Polytech Diamniadio
-• 2024-2028: Licence 
+• 2024-2028: Licence Licence en Sciences et Techniques Agroalimentaires et Nutritionnelles à Polytech Diamniadio
+
  Modules étudiés :
 - Nutrition
 - Biologie Appliquée aux sciences(Physique, Chimie, Statistique, Mathématiques, Informatique)         
@@ -36,7 +35,8 @@ Polytech Diamniadio
 - Biotechnologie(Microbienne, Animale, Végétale)
 - Biochimie
 - Alimentation, Hygiène alimentaire
-- Transformation des produits locaux         
+- Transformation des produits locaux   
+
 • 2023-2024 : Baccalauréat S2          
  """)
 st.header("Compétences")
@@ -48,7 +48,7 @@ st.markdown("""
 • Application des règles d’hygiène alimentaire
  """)
 st.subheader("Compétences informatiques")
-st.markdorn("""
+st.markdown("""
 • Canva
 • Suite bureatique
 • OTC
@@ -79,7 +79,7 @@ st.markdown("""
 Dans un horizon de cinq ans, je souhaite devenir diététicienne qualifiée.
  Mon objectif est d’exercer dans une structure hospitalière ou clinique, puis de développer :
 • Un centre de nutrition
-• Une marque de produits alimentaires sains
+• Une marque de produits alimentaires sains(personal branding)
  Je souhaite également acquérir une reconnaissance à l’échelle internationale via un cabinet privé.
 """)
 
