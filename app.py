@@ -55,7 +55,6 @@ st.markdorn("""
 • Suite bureatique
 • OTC
 • QGIS, Anaconda Navigator, R, VSCode
-• 
 """)            
 st.subheader("Soft skills")
 st.markdown("""         
