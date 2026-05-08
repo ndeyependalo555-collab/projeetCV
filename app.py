@@ -24,7 +24,6 @@ Ce portfolio présente mon parcours académique, mes compétences et mes objecti
 • Disciplinée et organisée
 • Désireuse d’apprendre, de progresser et d'aider à travers la diététique
  """)
-
 st.header("Certifications")
 st.markdown("""
 Licence en Sciences et Techniques Agroalimentaires et Nutritionnelles (en cours)
@@ -40,7 +39,6 @@ Polytech Diamniadio
 - Transformation des produits locaux         
 • 2023-2024 : Baccalauréat S2          
  """)
-
 st.header("Compétences")
 st.subheader("Compétences techniques")
 st.markdown("""
@@ -64,7 +62,6 @@ st.markdown("""
 • Sens de l'écoute
 • Capacité de motiver
 """)
-
 st.header("Rôle du diététicien")
 st.markdown("""
 Le diététicien intervient dans la prévention et le traitement de plusieurs pathologies telles que :
@@ -77,7 +74,6 @@ Le diététicien intervient dans la prévention et le traitement de plusieurs pa
 • Conseil et suivi des patients
 • Sensibilisation à une alimentation saine et équilibrée
  """)
-
 st.header("Projet professionnel")
 st.markdown("""
 Dans un horizon de cinq ans, je souhaite devenir diététicienne qualifiée.
