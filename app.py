@@ -4,15 +4,19 @@ st.title("Penda:Une diététicienne")
 #=======================
 #SIDEBAR
 #=======================
+
 st.sidebar.header("Informations personnelles")
 st.sidebar.image("photo.jpeg",width=200)
 st.sidebar.markdown("""
  Nom : Penda LO
+ 
  Email : ndeyependalo555@gmail.com
+ 
 Si vous avez des questions, suggestions ou des idées de collaborations veuillez me contacter par l'adresse mail ci joint
 """) 
 #=======================
 #=======================
+
 st.header("Profil")
 st.markdown("""
 Je suis étudiante en deuxième année en sciences et techniques agroalimentaires et nutritionnelles.
@@ -24,6 +28,7 @@ Ce portfolio présente mon parcours académique, mes compétences et mes objecti
 • Disciplinée et organisée
 • Désireuse d’apprendre, de progresser et d'aider à travers la diététique
  """)
+
 st.header("Certifications")
 st.markdown("""
 • 2024-2028: Licence Licence en Sciences et Techniques Agroalimentaires et Nutritionnelles à Polytech Diamniadio
@@ -40,6 +45,7 @@ st.markdown("""
 • 2023-2024 : Baccalauréat S2          
  """)
 st.header("Compétences")
+
 st.subheader("Compétences techniques")
 st.markdown("""
 • Analyse des informations nutritionnelles (IMC, Glycémie,)
@@ -47,13 +53,15 @@ st.markdown("""
 • Élaboration de conseils alimentaires
 • Application des règles d’hygiène alimentaire
  """)
+
 st.subheader("Compétences informatiques")
 st.markdown("""
 • Canva
 • Suite bureatique
 • OTC
 • QGIS, Anaconda Navigator, R, VSCode
-""")            
+""")     
+
 st.subheader("Soft skills")
 st.markdown("""         
 • Organisation
@@ -62,6 +70,7 @@ st.markdown("""
 • Sens de l'écoute
 • Capacité de motiver
 """)
+
 st.header("Rôle du diététicien")
 st.markdown("""
 Le diététicien intervient dans la prévention et le traitement de plusieurs pathologies telles que :
@@ -74,6 +83,7 @@ Le diététicien intervient dans la prévention et le traitement de plusieurs pa
 • Conseil et suivi des patients
 • Sensibilisation à une alimentation saine et équilibrée
  """)
+
 st.header("Projet professionnel")
 st.markdown("""
 Dans un horizon de cinq ans, je souhaite devenir diététicienne qualifiée.
