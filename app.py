@@ -10,9 +10,9 @@ st.sidebar.markdown("""
  Nom : Penda LO
  Email : ndeyependalo555@gmail.com
 Si vous avez des questions, suggestions ou des idées de collaborations veuillez me contacter par l'adresse mail ci joint
-""")
-====================================
-====================================
+""") 
+#=======================
+#=======================
 st.header("Profil")
 st.markdown("""
 Je suis étudiante en deuxième année en sciences et techniques agroalimentaires et nutritionnelles.
