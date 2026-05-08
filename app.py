@@ -23,6 +23,7 @@ Je suis ingénieure de premier cycle en sciences et techniques agroalimentaires 
  Ma formation m’a permis de développer des connaissances scientifiques solides ainsi qu’un esprit critique,
  notamment dans la compréhension du lien entre alimentation et santé.
 Ce portfolio présente mon parcours académique, mes compétences et mes objectifs professionnels.
+
 • Motivée et sérieuse
 
 • Intéressée par la nutrition et la santé publique
