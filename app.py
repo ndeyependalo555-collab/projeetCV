@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Penda:Une diététicienne")
+st.title("Penda: Une diététicienne")
 #=======================
 #SIDEBAR
 #=======================
@@ -19,7 +19,7 @@ Si vous avez des questions, suggestions ou des idées de collaborations veuillez
 
 st.header("Profil")
 st.markdown("""
-Je suis étudiante en deuxième année en sciences et techniques agroalimentaires et nutritionnelles.
+Je suis ingénieure de premier cycle en sciences et techniques agroalimentaires et nutritionnelles.
  Ma formation m’a permis de développer des connaissances scientifiques solides ainsi qu’un esprit critique,
  notamment dans la compréhension du lien entre alimentation et santé.
 Ce portfolio présente mon parcours académique, mes compétences et mes objectifs professionnels.
@@ -57,17 +57,24 @@ st.markdown("""
 st.subheader("Compétences informatiques")
 st.markdown("""
 • Canva
+
 • Suite bureatique
+
 • OTC
+
 • QGIS, Anaconda Navigator, R, VSCode
 """)     
 
 st.subheader("Soft skills")
 st.markdown("""         
 • Organisation
+
 • Esprit critique
+
 • Empathie
+
 • Sens de l'écoute
+
 • Capacité de motiver
 """)
 
