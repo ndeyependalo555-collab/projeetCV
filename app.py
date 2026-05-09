@@ -122,7 +122,7 @@ Dans un horizon de cinq ans, je souhaite devenir diététicienne qualifiée.
  
 • Un centre de nutrition
 
-• Contribuer à la baisse des taux de prévalence des maladies chroniques non transmissible au Sénégal
+• Contribuer à une baisse considérable des taux de prévalence des maladies chroniques non transmissibles au Sénégal et à travers le monde entier
 (Exemple
 - Diabète: 4.2% des adultes en 2024-2025 
 
@@ -132,7 +132,11 @@ Dans un horizon de cinq ans, je souhaite devenir diététicienne qualifiée.
 
 • Une marque de produits alimentaires qui prone la consommation locale (personal branding)
 
-• Revaloriser la diététique en Afrique particuliérement au Sénégal
+• Soutien aux populations démunies face à la malnutrition
+
+• Programmes agricoles et communautaires
+
+• Revaloriser la diététique en Afrique particuliérement au SénégalP
 
  Je souhaite également acquérir une reconnaissance à l’échelle internationale via un cabinet privé (LO'OTHENTIK Consulting) qui prône la consommation locale.
 """)
