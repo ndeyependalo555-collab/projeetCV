@@ -35,9 +35,10 @@ Ce portfolio présente mon parcours académique, mes compétences et mes objecti
 
 st.header("Certifications")
 st.markdown("""
-• 2024-2028: Licence Licence en Sciences et Techniques Agroalimentaires et Nutritionnelles à Polytech Diamniadio
+• 2024-2028: Licence en Sciences et Techniques Agroalimentaires et Nutritionnelles(STAAN)  à Polytech Diamniadio
 
  Modules étudiés :
+ 
 - Nutrition
 
 - Biologie Appliquée aux sciences(Physique, Chimie, Statistique, Mathématiques, Informatique)        
@@ -46,7 +47,7 @@ st.markdown("""
 
 - Biotechnologie(Microbienne, Animale, Végétale)
 
-- Biochimie
+- Ecologie
 
 - Alimentation, Hygiène alimentaire
 
@@ -60,8 +61,9 @@ st.header("Compétences")
 
 st.subheader("Compétences techniques")
 st.markdown("""
+• Diet design(élaboration de régimes alimentaires)
 
-• Analyse des informations nutritionnelles (IMC, Glycémie,)
+• Analyse des informations nutritionnelles (IMC, Glycémie, Tension aetérielle)
 
 • Compréhension de la composition des aliments
 
@@ -82,7 +84,7 @@ st.markdown("""
 """)     
 
 st.subheader("Soft skills")
-st.markdown("""         
+st.markdown("""  
 • Organisation
 
 • Esprit critique
@@ -121,7 +123,15 @@ Dans un horizon de cinq ans, je souhaite devenir diététicienne qualifiée.
  
 • Un centre de nutrition
 
-• Une marque de produits alimentaires sains(personal branding)
+• Contribuer à la baisse des taux de prévalence des maladies chroniques non transmissible au Sénégal
+(Exemple
+- Diabete: 4.2% des adultes en 2024-2025 
+
+- Hypertenion artérielle 30% des adultes en 2025
+
+- Obésité 6% de la population adulte en 2025)
+
+• Une marque de produits alimentaires qui prone la consommation locale (personal branding)
 
  Je souhaite également acquérir une reconnaissance à l’échelle internationale via un cabinet privé.
 """)
