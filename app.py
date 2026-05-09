@@ -8,7 +8,7 @@ st.title("Penda: Une diététicienne")
 st.sidebar.header("Informations personnelles")
 st.sidebar.image("photo.jpeg",width=200)
 st.sidebar.markdown("""
- Nom : Penda LO
+Nom : Penda LO
  
  Email : ndeyependalo555@gmail.com
  
@@ -19,9 +19,8 @@ Si vous avez des questions, suggestions ou des idées de collaborations veuillez
 
 st.header("Profil")
 st.markdown("""
-Je suis ingénieure de premier cycle en sciences et techniques agroalimentaires et nutritionnelles.
- Ma formation m’a permis de développer des connaissances scientifiques solides ainsi qu’un esprit critique,
- notamment dans la compréhension du lien entre alimentation et santé.
+ Diplômée en Sciences et Techniques Agroalimentaires et Nutritionnelles, je m’intéresse particulièrement à la nutrition, à la prévention des maladies chroniques et à la promotion d’une alimentation saine. 
+ Ma formation m’a permis de développer des connaissances scientifiques solides ainsi qu’un esprit critique, notamment dans la compréhension du lien entre alimentation et santé.
 Ce portfolio présente mon parcours académique, mes compétences et mes objectifs professionnels.
 
 • Motivée et sérieuse
@@ -63,7 +62,7 @@ st.subheader("Compétences techniques")
 st.markdown("""
 • Diet design(élaboration de régimes alimentaires)
 
-• Analyse des informations nutritionnelles (IMC, Glycémie, Tension aetérielle)
+• Analyse des informations nutritionnelles (IMC, Glycémie, Tension artérielle)
 
 • Compréhension de la composition des aliments
 
@@ -74,11 +73,11 @@ st.markdown("""
 
 st.subheader("Compétences informatiques")
 st.markdown("""
-• Canva
+• Canva, Gamma AI
 
 • Suite bureatique
 
-• OTC
+• Outils TIC
 
 • QGIS, Anaconda Navigator, R, VSCode
 """)     
@@ -125,19 +124,21 @@ Dans un horizon de cinq ans, je souhaite devenir diététicienne qualifiée.
 
 • Contribuer à la baisse des taux de prévalence des maladies chroniques non transmissible au Sénégal
 (Exemple
-- Diabete: 4.2% des adultes en 2024-2025 
+- Diabète: 4.2% des adultes en 2024-2025 
 
-- Hypertenion artérielle 30% des adultes en 2025
+- Hypertension: artérielle 30% des adultes en 2025
 
-- Obésité 6% de la population adulte en 2025)
+- Obésité: 6% de la population adulte en 2025)
 
 • Une marque de produits alimentaires qui prone la consommation locale (personal branding)
 
- Je souhaite également acquérir une reconnaissance à l’échelle internationale via un cabinet privé.
+• Revaloriser la diététique en Afrique particuliérement au Sénégal
+
+ Je souhaite également acquérir une reconnaissance à l’échelle internationale via un cabinet privé (LO'OTHENTIK Consulting) qui prône la consommation locale.
 """)
 
 st.header("Conclusion")
 st.markdown("""
 Je suis déterminée à contribuer à l’amélioration de la santé des populations à travers la nutrition.
- Je suis actuellement à la recherche d’opportunités me permettant de développer mes compétences professionnelles.
+ Je suis actuellement à la recherche d’opportunités me permettant de développer mes compétences professionnelles et de servir ma communauté .
 """)
