@@ -10,7 +10,7 @@ st.sidebar.image("photo.jpeg",width=200)
 st.sidebar.markdown("""
 Nom : Penda LO
  
- Email : ndeyependalo555@gmail.com
+Email : ndeyependalo555@gmail.com
  
 Si vous avez des questions, suggestions ou des idées de collaborations veuillez me contacter par l'adresse mail ci joint
 """) 
@@ -19,8 +19,8 @@ Si vous avez des questions, suggestions ou des idées de collaborations veuillez
 
 st.header("Profil")
 st.markdown("""
- Diplômée en Sciences et Techniques Agroalimentaires et Nutritionnelles, je m’intéresse particulièrement à la nutrition, à la prévention des maladies chroniques et à la promotion d’une alimentation saine. 
- Ma formation m’a permis de développer des connaissances scientifiques solides ainsi qu’un esprit critique, notamment dans la compréhension du lien entre alimentation et santé.
+Diplômée en Sciences et Techniques Agroalimentaires et Nutritionnelles, je m’intéresse particulièrement à la nutrition, à la prévention des maladies chroniques et à la promotion d’une alimentation saine. 
+Ma formation m’a permis de développer des connaissances scientifiques solides ainsi qu’un esprit critique, notamment dans la compréhension du lien entre alimentation et santé.
 Ce portfolio présente mon parcours académique, mes compétences et mes objectifs professionnels.
 
 • Motivée et sérieuse
@@ -106,7 +106,7 @@ Le diététicien intervient dans la prévention et le traitement de plusieurs pa
 
 • Malnutrition
 
- Ses principales missions sont :
+Ses principales missions sont :
  
 • Élaboration de régimes alimentaires adaptés
 
@@ -118,7 +118,7 @@ Le diététicien intervient dans la prévention et le traitement de plusieurs pa
 st.header("Projet professionnel")
 st.markdown("""
 Dans un horizon de cinq ans, je souhaite devenir diététicienne qualifiée.
- Mon objectif est d’exercer dans une structure hospitalière ou clinique, puis de développer :
+Mon objectif est d’exercer dans une structure hospitalière ou clinique, puis de développer :
  
 • Un centre de nutrition
 
@@ -136,13 +136,13 @@ Dans un horizon de cinq ans, je souhaite devenir diététicienne qualifiée.
 
 • Programmes agricoles et communautaires
 
-• Revaloriser la diététique en Afrique particuliérement au SénégalP
+• Revaloriser la diététique en Afrique particuliérement au Sénégal
 
- Je souhaite également acquérir une reconnaissance à l’échelle internationale via un cabinet privé (LO'OTHENTIK Consulting) qui prône la consommation locale.
+Je souhaite également acquérir une reconnaissance à l’échelle internationale via un cabinet privé (LO'OTHENTIK Consulting) qui prône la consommation locale.
 """)
 
 st.header("Conclusion")
 st.markdown("""
 Je suis déterminée à contribuer à l’amélioration de la santé des populations à travers la nutrition.
- Je suis actuellement à la recherche d’opportunités me permettant de développer mes compétences professionnelles et de servir ma communauté .
+Je suis actuellement à la recherche d’opportunités me permettant de développer mes compétences professionnelles et de servir ma communauté .
 """)
