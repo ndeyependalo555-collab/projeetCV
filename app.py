@@ -126,7 +126,7 @@ Mon objectif est d’exercer dans une structure hospitalière ou clinique, puis 
 (Exemple
 - Diabète: 4.2% des adultes en 2024-2025 
 
-- Hypertension: artérielle 30% des adultes en 2025
+- Hypertension artérielle: 30% des adultes en 2025
 
 - Obésité: 6% de la population adulte en 2025)
 
